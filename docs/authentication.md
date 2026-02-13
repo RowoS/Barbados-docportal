@@ -16,10 +16,10 @@
     </a> > <strong>Authentication</strong>
 </p>
 
-| Authentication |
+| Use Case Scenarios |
 | ------------ |
-| [Sign-in](/docs/auth-sign-in.md) |
-| [Sign-up](/docs/auth-sign-up.md) |
+| [Sign-in](/docs/authentication/auth-sign-in.md) |
+| [Sign-up](/docs/authentication/auth-sign-up.md) |
 
 ---
 <p align="center">© 2026 <a href="#">Buybites</a></p>
