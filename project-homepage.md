@@ -16,3 +16,6 @@
 [Payment Processing](/docs/process-payment.md) |
 [Review and Rating System](/docs/rate-and-review.md) |
 [Vendor Communication](/docs/message-vendor.md) |
+
+---
+<p align="center">© 2026 <a href="#">Buybites</a></p>
