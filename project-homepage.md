@@ -3,7 +3,7 @@
 
 | Revision Date | Document Version | Description | Tracking Notes | Approved By |
 | ----------- | :------------:    | :---------: | :------------: | ----------- |
-| 2026-02-13  | v1.0    | Initialize Site Map documents    | BS.010.001   | Loreto, Lejohn Owen A. <br> Project Manager    |
+| 2026-02-13  | v1.0    | Initialize Site Map documents    | BS.010.001   | Loreto, Lejohn Owen A. <br> *Project Manager*    |
 |         |             |                   |    |     |
 
 | **Site Map** |
