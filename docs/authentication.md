@@ -10,3 +10,16 @@
 [Vendor Communication](/docs/message-vendor.md) |
 ---
 
+<p>
+    <a href="/project-homepage.md">
+        Project Homepage
+    </a> > <strong>Authentication</strong>
+</p>
+
+| Authentication |
+| ------------ |
+| [Sign-in](/docs/auth-sign-in.md) |
+| [Sign-up](/docs/auth-sign-up.md) |
+
+---
+<p align="center">© 2026 <a href="#">Buybites</a></p>
