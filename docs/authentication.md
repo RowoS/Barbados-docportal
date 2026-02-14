@@ -16,6 +16,9 @@
     </a> > <strong>Authentication</strong>
 </p>
 
+**Authentication**
+This module handles authentication for all users, and includes the login process and the creation of accounts. It allows users to securely login to their respective dashboards, and allows for the safe creation of accounts.
+
 | Use Case Scenarios |
 | ------------ |
 | [Sign-in](/docs/authentication/auth-sign-in.md) |
