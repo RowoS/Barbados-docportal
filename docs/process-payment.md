@@ -16,7 +16,8 @@
     </a> > <strong>Payment Processing</strong>
 </p>
 
-
+#### Payment Processing
+This module facilitates the payment process that occurs after the order has been made. It includes modes of payment like Cash on Delivery, GCash, and other legitimate and secure payment services.
 
 | Use Case Scenarios |
 | ------------ |

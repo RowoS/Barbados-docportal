@@ -16,6 +16,8 @@
     </a> > <strong>Order Tracking</strong>
 </p>
 
+#### Order Tracking
+This module includes keeping track of past order history, as well as current orders, starting from the moment the order is made, until the order has been received by the customer. It also utilizes real-time status updates and notifications to update the customer on their order status.
 
 | Use Case Scenarios |
 | ------------ |

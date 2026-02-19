@@ -16,7 +16,8 @@
     </a> > <strong>Review and Rating System</strong>
 </p>
 
-
+#### Review and Rating System
+This module enables users that have completed orders from vendors to leave reviews on their page and rate their services. 
 
 | Use Case Scenarios |
 | ------------ |

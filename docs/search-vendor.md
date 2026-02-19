@@ -16,7 +16,8 @@
     </a> > <strong>Vendor Search</strong>
 </p>
 
-
+#### Vendor Search
+This module handles the searching of vendor stores by customers through a search interface. It also includes the searching of vendors based on certain basic filters such as a price range, location, food type, etc.
 
 | Use Case Scenarios |
 | ------------ |
