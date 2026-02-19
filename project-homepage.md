@@ -3,6 +3,7 @@
 
 | Revision Date | Document Version | Description | Tracking Notes | Approved By |
 | ----------- | :------------:    | :---------: | :------------: | ----------- |
+| 2026-02-19  | v1.2    | Add documentation to vendor profile management module | BS.010.008 | Loreto, Lejohn Owen A. <br> *Project Manager* |
 | 2026-02-14  | v1.1    | Add documentation to auth module | BS.010.004 | Loreto, Lejohn Owen A. <br> *Project Manager* |
 | 2026-02-13  | v1.0    | Initialize Site Map documents    | BS.010.001   | Loreto, Lejohn Owen A. <br> *Project Manager*    |
 |         |             |                   |    |     |
