@@ -21,8 +21,8 @@ This module allows vendors to update their interfaces acting as a storefront. Th
 
 | Use Case Scenarios |
 | ------------ |
-| [Add Menu Item](/docs/authentication/auth-sign-in.md) |
-| [Edit Profile Details](/docs/authentication/auth-sign-up.md) |
+| [Edit Profile Details](/docs/manage-profile/edit-profile.md) |
+| [Update Menu](/docs/manage-profile/menu-addition.md)  |
 
 ---
 
