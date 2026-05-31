@@ -20,7 +20,8 @@
 This module facilitates communication between vendors and customers through in-app messaging or through direct contact via contact information provided by the vendor on their page.
 
 | Use Case Scenarios |
-| ------------ |
+| ------------- |
+| [Message Vendor](/docs/message-vendor/message.md) |
 
 
 ---
