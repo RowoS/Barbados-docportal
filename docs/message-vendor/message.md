@@ -13,7 +13,7 @@
 <p>
     <a href="/project-homepage.md">
         Project Homepage
-    </a> > <a href="/docs/message-vendor.md">Message Vendors</a>
+    </a> > <a href="/docs/message-vendor.md">Vendor Communication</a>
     > <strong>Message</strong>
 </p>
 
