@@ -21,6 +21,8 @@ This module enables users that have completed orders from vendors to leave revie
 
 | Use Case Scenarios |
 | ------------ |
+| [Customer Reviews Store](/docs/rate-and-review/customer-review.md)            |
+| [View Reviews](/docs/rate-and-review/view-reviews.md) |
 
 
 ---
