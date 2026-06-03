@@ -16,10 +16,13 @@
     </a> > <strong>Authentication</strong>
 </p>
 
-| Authentication |
+**Authentication**
+This module handles authentication for all users, and includes the login process and the creation of accounts. It allows users to securely login to their respective dashboards, and allows for the safe creation of accounts.
+
+| Use Case Scenarios |
 | ------------ |
-| [Sign-in](/docs/auth-sign-in.md) |
-| [Sign-up](/docs/auth-sign-up.md) |
+| [Sign-in](/docs/authentication/auth-sign-in.md) |
+| [Sign-up](/docs/authentication/auth-sign-up.md) |
 
 ---
 <p align="center">© 2026 <a href="#">Buybites</a></p>

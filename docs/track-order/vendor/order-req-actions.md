@@ -13,10 +13,18 @@
 <p>
     <a href="/project-homepage.md">
         Project Homepage
-    </a> > <a href="/docs/authentication.md">Authentication</a>
-    > <strong>Authentication Sign Up</strong>
+    </a> > 
+    <a href="/docs/track-order.md">
+        Order Tracking
+    </a> > <strong>Process Order Requests</strong>
 </p>
 
+#### Process Order Requests
+
+| Use Case Scenarios |
+| ------------ |
+| [Accept Order for Processing](/docs/track-order/vendor/accept-order.md) |
+| [Reject Order Request](/docs/track-order/vendor/reject-order.md) |
 
 ---
 <p align="center">© 2026 <a href="#">Buybites</a></p>
